@@ -33,7 +33,8 @@ To see how it accurate it really was, we input our holdout set which was all the
 
 ## Website Predictor
 
-Using our final model, we built a function where a user would input two players and a surface type. The function would then return who would win and the probability that they will win. We then created a website linked here: https://tennispredapp.herokuapp.com/
+Using our final model, we built a function where a user would input two players and a surface type. The function would then return who would win and the probability that they will win. 
+We then created a website linked here: https://tennispredapp.herokuapp.com/
 
 ## Conclusion
 
@@ -41,7 +42,7 @@ According to our final model, we can predict the winner of a tennis match with r
 
 This project was very interesting and was something we both truly enjoyed working on. However, due to time constraints, we were unable to finish everything we wanted to do. The first thing we would like to do is increase our model's accuracy. Our model has no data on returns and return games, so if we could find data on that, we could potentially make our model more accurate.
 
-It would also be beneficial for our model and website to automatically update our data as new matches are being played constantly. Another thing we would like to do is track player momentum by filtering recent matches and results. Players will have streaks of brilliance that allows them to beat players they would normally lose to and vice versa.
+It would also be beneficial for our model and website to automatically update our data as new matches are being played constantly. Another thing we would like to do is track player momentum by filtering recent matches and results. Players will have streaks of brilliance that allows them to beat players they would normally lose to and vice versa. On the website, we hope to increaase interpretability by having the model expalin what specific aspects of the matchup made it make the prediction.
 
 ## Repo Navigation
 ```
