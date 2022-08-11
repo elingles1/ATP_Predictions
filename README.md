@@ -33,7 +33,7 @@ To see how it accurate it really was, we input our holdout set which was all the
 
 ## Website Predictor
 
-Using our final model, we built a function where a user would input two players and a surface type. The function would then return who would win and the probability that they will win. 
+Using our final model, we built a function where a user would input two players and a surface type. The function would then return who would win and the probability that they will win. We then created a website linked here: https://tennispredapp.herokuapp.com/
 
 ## Conclusion
 
