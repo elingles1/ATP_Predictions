@@ -45,8 +45,10 @@ It would also be beneficial for our model and website to automatically update ou
 
 ## Repo Navigation
 ```
-├── Notebooks <- Working notebooks.
+├── data <- Data Folder.
+├── Notebooks <- Working Notebooks.
 ├── License
+├── Presentation <- Presentation Report
 ├── Final Notebook <- Report Notebook
 ├── README.md <- The top-level README for developers using this project.
 ```
